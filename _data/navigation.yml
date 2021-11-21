@@ -1,0 +1,8 @@
+- title: Home
+  url: /
+
+- title: Number One
+  url: /test/
+  sublinks:
+    - title: sub1
+      url: /test/sub1
