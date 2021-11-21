@@ -4,5 +4,5 @@ layout: page
 title: "Home!"
 permalink: /home/
 ---
-
+{% include navigation.html}
 Testin'!
