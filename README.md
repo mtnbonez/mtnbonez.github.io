@@ -1,5 +1,6 @@
-## Readme
 {% include navigation.html %}
+## Readme
+
 <ul>
     {% for post in site.posts %}
         <li>
