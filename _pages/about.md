@@ -1,5 +1,5 @@
 ---
-title: About MtnBonez
+title: Walter Ferrell
 subtitle: Senior Full Stack Server Engineer @ Uncapped Games
 description: All about me.
 featured_image: /images/demo/demo-portrait.jpg
