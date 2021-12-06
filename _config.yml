@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: MtnBonez
 
-url: 
-baseurl: 
+url: https://mtnbonez.github.io/
+baseurl: https://mtnbonez.github.io/
 
 collections:
   pages:
