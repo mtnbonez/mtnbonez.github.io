@@ -1,7 +1,7 @@
 site: MtnBonez
 
 url: https://mtnbonez.github.io/
-baseurl: https://mtnbonez.github.io/
+baseurl:
 
 collections:
   pages:
