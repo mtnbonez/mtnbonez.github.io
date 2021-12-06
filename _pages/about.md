@@ -1,7 +1,7 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About MtnBonez
+subtitle: Senior Full Stack Server Engineer @ Uncapped Games
+description: All about me.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
