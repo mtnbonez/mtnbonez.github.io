@@ -1,7 +1,7 @@
 ---
 title: Contact
-subtitle: Senior Full Stack Server Engineer @ Uncapped Games
-description: Contact me!
+subtitle: Want to talk or collaborate? Let's chat!
+description: Contact for Walter Ferrell.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
