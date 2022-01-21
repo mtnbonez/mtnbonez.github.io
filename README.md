@@ -1,13 +1,8 @@
-{% include navigation.html %}
 ## Readme
 
-<ul>
-    {% for post in site.posts %}
-        <li>
-            <a href="{{ post.url }}">
-                {{ post.title }}
-            </a>
-            - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-        </li>
-    {% endfor %}
-</ul>
+# Local Building
+After you set up Jekyll and all of the fun stuff (and it certainly is fuuuun), do this from the root folder!
+```
+bundle exec jekyll serve
+```
+That will start serving the website locally for testing.
