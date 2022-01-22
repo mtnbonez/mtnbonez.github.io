@@ -42,4 +42,4 @@ Take note, your Unity speaker settings will still be downmixed to whatever speak
 
 ### Comments, criticism, or ideas for the future?
 
-Head over to this post's [issue page](https://github.com/mtnbonez/mtnbonez.github.io/issues/1) put your thoughts in there!
+Head over to this post's [issue page](https://github.com/mtnbonez/mtnbonez.github.io/issues/1) and put your thoughts in there!
