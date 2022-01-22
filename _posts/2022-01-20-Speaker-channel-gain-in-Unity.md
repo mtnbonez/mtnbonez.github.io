@@ -30,7 +30,7 @@ Here's a quick way to get individual speaker channel attenuation working in your
 
 ### Building the plugins from source
 
-[Othniel Cundangan](https://www.linkedin.com/in/othnielcundangan/) wrote an [excellent article](https://medium.com/@othnielcundangan/how-to-use-unitys-native-audio-plugin-sdk-on-macos-f7e1bdbc8141) around building the plugins from source from a MacOS perspective. If there's any interest on how to build from source for Windows using Visual Studio, I would be glad to do a write up - let me know!
+[Othniel Cundangan](https://www.linkedin.com/in/othnielcundangan/) wrote an [excellent article](https://medium.com/@othnielcundangan/how-to-use-unitys-native-audio-plugin-sdk-on-macos-f7e1bdbc8141) around building the plugins from source from a MacOS perspective. If there's any interest on how to build from source for Windows using Visual Studio, I would be glad to do a write up - [let me know](https://github.com/mtnbonez/mtnbonez.github.io/issues/1)!
 
 ### Why am I not seeing 8 channels in my Mixer?
 
@@ -42,4 +42,4 @@ Take note, your Unity speaker settings will still be downmixed to whatever speak
 
 ### Comments, criticism, or ideas for the future?
 
-Head over to this post's **`issue`** page put your thoughts in there!
+Head over to this post's [issue page](https://github.com/mtnbonez/mtnbonez.github.io/issues/1) put your thoughts in there!
