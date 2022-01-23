@@ -16,6 +16,8 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'Timeline'
+      url: '/timeline'
     - title: 'Contact'
       url: '/contact'
 
