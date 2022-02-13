@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speaker channel gain in Unity"
-date: 2022-01-20 21:07:00 -0000
+date: 2022-01-20 21:07:00 -0800
 featured_image: '/images/blog/Speaker-channel-gain-in-Unity/sliders.gif'
 categories: unity, audio
 exercept: Looking for an easy way to attenuate volume for individual speaker channels? Unity's already built a DSP plugin just for you!
