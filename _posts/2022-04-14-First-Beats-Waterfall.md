@@ -11,7 +11,7 @@ exercept: 'First Beats: number 1! Check out my journey in making my first dozen 
 
 <b>Note for the download: you may need to right click -> "Save Link As" or refresh the page after clicking the link.</b>
 
-The old adage of "getting your crappy songs out of the" is true, and here are my best/worst submissions. I'll be using the "First Beats" prepender for these early creations and including my project files for anyone following along!
+If the old adage of "getting your crappy songs out of the way" is true, here are my best/worst submissions. I'll be using the "First Beats" prepender for these early creations and including my project files for anyone following along!
 
 This was my first time tackling a project in GarageBand on iOS. Honestly, I was pretty impressed by the built-in effects, sample library, and overall fun that I'm getting out of this app. Definitely a nice alternative if you want to get away from the main computer (or overwhelming possibilities of Ableton Live) for a while.
 
