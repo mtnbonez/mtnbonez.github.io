@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Beats: #2 - Pumpkin"
-date: 2022-05-01 01:03:00 -0700
+date: 2025-05-01 01:03:00 -0700
 featured_image: '/images/blog/First-Beats-Pimpkin/pumpkin-cover.jpg'
 categories: music, audio, ableton, guitalele
 exercept: 'First Beats: #2 - first time posting on Spotify!'
