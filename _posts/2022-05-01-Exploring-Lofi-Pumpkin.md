@@ -7,7 +7,7 @@ categories: music, audio, ableton, guitalele
 exercept: 'First time posting on Spotify!'
 ---
 
-|*Pumpkin*|<audio controls><source src="/audio/pumpkin/pumpkin.mp3" type="audio/mpeg">Your browser doesn't support audio.</audio>|
+|*Pumpkin*|<audio controls><source src="/audio/pumpkin/pumpkin.mp3" type="audio/mpeg">Your browser doesn't support audio.</audio>|[Spotify](https://open.spotify.com/track/0mVjeS037eXFTZc7qlOD4h?si=8f33516160d8432a)|
 
 Dedicated to my pumpkin, Chance.
 
