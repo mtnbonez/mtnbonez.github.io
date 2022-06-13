@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Lo-fi: pumpkin"
-date: 2025-05-01 01:03:00 -0700
+date: 2022-05-01 01:03:00 -0700
 featured_image: '/images/blog/First-Beats-Pimpkin/pumpkin-cover.jpg'
 categories: music, audio, ableton, guitalele
 exercept: 'First time posting on Spotify!'
