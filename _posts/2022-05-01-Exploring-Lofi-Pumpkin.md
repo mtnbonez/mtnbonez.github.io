@@ -11,7 +11,9 @@ exercept: 'First time posting on Spotify!'
 
 Dedicated to my pumpkin, Chance.
 
-This track has been one I've been noodling on for over a year. I've been riffing around the core guitalele part for well over a year now.
+This track has been one I've been noodling on for over a year. I've been riffing around the core guitalele since starting to fingerpick more, but the piano part came in last moment when things were feeling hollow. The insect and nature sounds were ones I picked off ASMR videos I use for white-noise at work. I slipped in a few vocal samples of myself where I did clicks (*tch tch*) for interesting slapback delay effects - I was really happy with how they turned out!
+
+Have a listen and let me know what you think. :)
 
 #### Hardware
 * [Arturia KeyLab 49 Mk2](https://www.arturia.com/products/hybrid-synths/keylab49/overview)
