@@ -13,8 +13,6 @@ Dedicated to my pumpkin, Chance.
 
 This track has been one I've been noodling on for over a year. I've been riffing around the core guitalele part for well over a year now.
 
-### Resources Used for the Project...
-
 #### Hardware
 * [Arturia KeyLab 49 Mk2](https://www.arturia.com/products/hybrid-synths/keylab49/overview)
 * [Focusrite Scarlett 2i4 preamp](https://store.focusrite.com/en-gb/product/scarlett-2i4-2nd-gen/MOSC0014~MOSC0014) (Gen 2)
