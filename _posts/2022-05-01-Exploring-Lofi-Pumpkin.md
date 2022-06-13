@@ -22,7 +22,8 @@ Equipment used:
 * [Yamaha HS7 monitors](http://studioprojects.com/b1.html)
 
 
-<iframe style="border-radius:12px; text-align:center;" src="https://open.spotify.com/embed/track/0mVjeS037eXFTZc7qlOD4h?utm_source=generator" width="50%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<div style="text-align:center">
+<iframe style="border-radius:12px;" src="https://open.spotify.com/embed/track/0mVjeS037eXFTZc7qlOD4h?utm_source=generator" width="50%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
 ### Comments, criticism, or ideas for the future?
 
