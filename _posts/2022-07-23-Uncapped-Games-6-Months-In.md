@@ -15,8 +15,10 @@ Test
 
 ![](/images/blog/Uncapped-Games-6-Months/Chance_SENDING_IT.mp4)
 
-<video src="/images/blog/Uncapped-Games-6-Months/Chance_SENDING_IT.mp4" type="video/mp4" controls="controls" style="max-width: 730px;">
-</video>
+<p align="center">
+    <video src="/images/blog/Uncapped-Games-6-Months/Chance_SENDING_IT.mp4" type="video/mp4" controls="controls" style="max-width: 730px;">
+    </video>
+</p>
 
 ![](/images/blog/Uncapped-Games-6-Months/playing_guitar.jpg)
 
