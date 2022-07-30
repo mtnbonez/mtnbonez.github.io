@@ -17,7 +17,7 @@ Here at Uncapped Games, we celebrated completing our current milestone at our su
 |:--:|
 | Brought a few guitars and strummed a bit with the other musicians. |
 
-The day before the event, Tencent America hosted Family Day at [https://topgolf.com/us/el-segundo/](Top Golf in El Segundo). 
+The day before the event, Tencent America hosted Family Day at [Top Golf in El Segundo](https://topgolf.com/us/el-segundo/). 
 
 It was Chance's first time golfing...?
 
