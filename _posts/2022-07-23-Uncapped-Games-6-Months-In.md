@@ -7,11 +7,14 @@ categories: Uncapped Games, Tencent, gamedev
 exercept: 'Milestone celebration and Lightspeed Studio outing'
 ---
 
-Test
+Here at Uncapped Games, we celebrated completing our current milestone at our summer in-person meet-up!
 
-![](/images/blog/Uncapped-Games-6-Months/Uncapped_team_photo.jpg)
+| ![](/images/blog/Uncapped-Games-6-Months/Uncapped_team_photo.jpg) |
+|:--:|
+| Photo of the squad (minus one who couldn't make it down for the event.) |
 
-![](/images/blog/Uncapped-Games-6-Months/we_won_a_prize.jpg)
+![](/images/blog/Uncapped-Games-6-Months/playing_guitar.jpg)
+
 
 ![](/images/blog/Uncapped-Games-6-Months/Chance_SENDING_IT.mp4)
 
@@ -20,7 +23,8 @@ Test
     </video>
 </p>
 
-![](/images/blog/Uncapped-Games-6-Months/playing_guitar.jpg)
+![](/images/blog/Uncapped-Games-6-Months/we_won_a_prize.jpg)
+
 
 ![](/images/blog/Uncapped-Games-6-Months/weird_top_golf_pose.jpg)
 
