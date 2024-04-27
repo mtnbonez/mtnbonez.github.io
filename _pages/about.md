@@ -25,4 +25,4 @@ Always down to collaborate - [let me know](/contact) if you're interested.
 
 I'm also reading a few books in parallel right now:
 
-| [![](/images/about/StarEater.jpeg)](https://www.google.com/books/edition/Star_Eater/fnRUEAAAQBAJ) | [![](/images/about/FourStepsToTheEpiphany.jpg)](https://www.google.com/books/edition/The_Four_Steps_to_the_Epiphany/7p_ODwAAQBAJ)  | [![](/images/about/GameAudioProgramming.jpeg)](https://www.google.com/books/edition/Game_Audio_Programming/6y2LDQAAQBAJ) |
+| [![](/images/about/theForgottenBeastsOfEld.png)](https://en.wikipedia.org/wiki/The_Forgotten_Beasts_of_Eld) | [![](/images/about/FourStepsToTheEpiphany.jpg)](https://www.google.com/books/edition/The_Four_Steps_to_the_Epiphany/7p_ODwAAQBAJ)  | [![](/images/about/GameAudioProgramming.jpeg)](https://www.google.com/books/edition/Game_Audio_Programming/6y2LDQAAQBAJ) |
