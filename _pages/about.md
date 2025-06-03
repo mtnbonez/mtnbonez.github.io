@@ -25,6 +25,4 @@ Here's some music I made:
 
 Here are some books I really like:
 
-|
-
 | [![](/images/about/theForgottenBeastsOfEld.png)](https://en.wikipedia.org/wiki/The_Forgotten_Beasts_of_Eld) | [![](/images/about/FourStepsToTheEpiphany.jpg)](https://www.google.com/books/edition/The_Four_Steps_to_the_Epiphany/7p_ODwAAQBAJ)  | [![](/images/about/GameAudioProgramming.jpeg)](https://www.google.com/books/edition/Game_Audio_Programming/6y2LDQAAQBAJ) |
