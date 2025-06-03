@@ -9,7 +9,7 @@ featured_image: /images/about/joiningAFolkcoreBand.jpg
 
 Here's my CV (click it):
 
-<a href="https://docs.google.com/document/d/1PVJBaD_GWiWUpMTQeUW4ulwUX2Z6N7h5ajMhGUx-kps/edit?usp=sharing"><img src="/images/about/resumeCombined.png" width="75%"></a>
+<p align="center"><a href="https://docs.google.com/document/d/1PVJBaD_GWiWUpMTQeUW4ulwUX2Z6N7h5ajMhGUx-kps/edit?usp=sharing"><img src="/images/about/resumeCombined.png" width="100%"></a></p>
 
 ---
 
