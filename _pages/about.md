@@ -7,21 +7,24 @@ featured_image: /images/about/joiningAFolkcoreBand.jpg
 ---
 ### Professional
 
+Here's my CV (click it):
+
 <a href="https://docs.google.com/document/d/1PVJBaD_GWiWUpMTQeUW4ulwUX2Z6N7h5ajMhGUx-kps/edit?usp=sharing"><img src="/images/about/resumeCombined.png" width="75%"></a>
 
 ---
 
 ### Music
-Been focused on my toolchain, making better playing/recording habits, and getting the fun back.
-<br> 
-Always down to collaborate - [let me know](/contact) if you're interested.
 
-|Working on making loop samples sound good (credit to **Yaeji - "Raingurl"**)|<audio controls><source src="/audio/about/mix_1.mp3" type="audio/mpeg">Your browser doesn't support audio.</audio>|
-|Random dry hip-hop beat made for friends|<audio controls><source src="/audio/about/randomBeat.mpeg" type="audio/mpeg">Your browser doesn't support audio.</audio>|
-|Messing around with Ableton as a pedal FX chain|<audio controls><source src="/audio/about/ableton_as_a_pedal_clean.mp3" type="audio/mpeg">Your browser doesn't support audio.</audio>|
+Here's some music I made:
+
+<p align="center"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7y2ATIOlk9PQXkYmR6MCMM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
 
 ---
 
-I'm also reading a few books in parallel right now:
+### Books
+
+Here are some books I really like:
+
+|
 
 | [![](/images/about/theForgottenBeastsOfEld.png)](https://en.wikipedia.org/wiki/The_Forgotten_Beasts_of_Eld) | [![](/images/about/FourStepsToTheEpiphany.jpg)](https://www.google.com/books/edition/The_Four_Steps_to_the_Epiphany/7p_ODwAAQBAJ)  | [![](/images/about/GameAudioProgramming.jpeg)](https://www.google.com/books/edition/Game_Audio_Programming/6y2LDQAAQBAJ) |
