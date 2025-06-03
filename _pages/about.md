@@ -7,8 +7,7 @@ featured_image: /images/about/joiningAFolkcoreBand.jpg
 ---
 ### Professional
 
-|[![](/images/about/UncappedGames.jpeg)](https://www.uncappedgames.com/)|Professionally, I'm working on a new RTS with [Uncapped Games](https://www.uncappedgames.com/) where some of my workload includes:<br> <br> - Audio engine programming<br> - Server feature programming<br> - Slack emoji connoisseur <br> - Morale support & general positivity<br><br> Shameless plug: [we're hiring](https://careers.tencent.com/en-us/search.html?query=ci_407&keyword=uncapped)! We're currently a tiny team, so it's a great chance to help mold the next great RTS.<br><br><sub><sup>If you're curious about my previous work, check out my [Resume](https://drive.google.com/drive/folders/1LcUPLwgL7f9dlzfkljJz3Zcz-s89Z06o?usp=sharing)!</sup></sub>|
-
+<a href="https://docs.google.com/document/d/1PVJBaD_GWiWUpMTQeUW4ulwUX2Z6N7h5ajMhGUx-kps/edit?usp=sharing"><img src="/images/about/resumeCombined.png" width="75%"></a>
 
 ---
 
